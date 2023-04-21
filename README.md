@@ -1,2 +1,2 @@
 # Deep_Learning
-This repository contains the deep learning codes using Pytorch and projects.
+This repository contains the deep learning class projects codes using Pytorch and projects.
