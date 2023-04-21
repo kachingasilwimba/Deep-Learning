@@ -1,0 +1,29 @@
+Xt.shape and y.shape
+(300, 2) (300,)
+iteration 10000: avg_cost 0.120525
+iteration 20000: avg_cost 0.106188
+iteration 30000: avg_cost 0.031717
+iteration 40000: avg_cost 0.020347
+iteration 50000: avg_cost 0.016875
+iteration 60000: avg_cost 0.014876
+iteration 70000: avg_cost 0.013398
+iteration 80000: avg_cost 0.012182
+iteration 90000: avg_cost 0.011141
+iteration 100000: avg_cost 0.010246
+iteration 110000: avg_cost 0.009478
+iteration 120000: avg_cost 0.008818
+iteration 130000: avg_cost 0.008248
+iteration 140000: avg_cost 0.007751
+iteration 150000: avg_cost 0.007312
+iteration 160000: avg_cost 0.006920
+iteration 170000: avg_cost 0.006569
+iteration 180000: avg_cost 0.006252
+iteration 190000: avg_cost 0.005965
+iteration 200000: avg_cost 0.005705
+training accuracy: 0.9933
+
+xx.shape: (193, 193)
+
+yy.shape: (193, 193)
+
+time needed to run program: 97.69590497016907

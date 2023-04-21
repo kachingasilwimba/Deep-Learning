@@ -1,0 +1,150 @@
+Epoch 0 training complete
+Cost on training data: 1.5532931470689566
+Accuracy on training data: 75911 / 99999
+Cost on evaluation data: 2.506763820620205
+Accuracy on evaluation data: 9567 / 12800
+Epoch 1 training complete
+Cost on training data: 1.473798903215771
+Accuracy on training data: 77690 / 99999
+Cost on evaluation data: 2.740854478306648
+Accuracy on evaluation data: 9774 / 12800
+Epoch 2 training complete
+Cost on training data: 1.3933954449322092
+Accuracy on training data: 79267 / 99999
+Cost on evaluation data: 2.817461186607632
+Accuracy on evaluation data: 9863 / 12800
+Epoch 3 training complete
+Cost on training data: 1.3927267253909326
+Accuracy on training data: 80038 / 99999
+Cost on evaluation data: 2.908791104142831
+Accuracy on evaluation data: 9992 / 12800
+Epoch 4 training complete
+Cost on training data: 1.3515902559593598
+Accuracy on training data: 79888 / 99999
+Cost on evaluation data: 2.927632688023876
+Accuracy on evaluation data: 9951 / 12800
+Epoch 5 training complete
+Cost on training data: 1.3428103878060758
+Accuracy on training data: 80865 / 99999
+Cost on evaluation data: 2.951986818110802
+Accuracy on evaluation data: 10081 / 12800
+Epoch 6 training complete
+Cost on training data: 1.3435314856374827
+Accuracy on training data: 80509 / 99999
+Cost on evaluation data: 2.9884821621350093
+Accuracy on evaluation data: 9971 / 12800
+Epoch 7 training complete
+Cost on training data: 1.353343827680897
+Accuracy on training data: 80840 / 99999
+Cost on evaluation data: 3.0198331303688435
+Accuracy on evaluation data: 9992 / 12800
+Epoch 8 training complete
+Cost on training data: 1.3252010526410278
+Accuracy on training data: 81591 / 99999
+Cost on evaluation data: 3.0113073670670074
+Accuracy on evaluation data: 10142 / 12800
+Epoch 9 training complete
+Cost on training data: 1.2853016918629536
+Accuracy on training data: 82512 / 99999
+Cost on evaluation data: 2.975637474458776
+Accuracy on evaluation data: 10182 / 12800
+Epoch 10 training complete
+Cost on training data: 1.3218291081398443
+Accuracy on training data: 81687 / 99999
+Cost on evaluation data: 3.0314135012815964
+Accuracy on evaluation data: 10109 / 12800
+Epoch 11 training complete
+Cost on training data: 1.3358294398305215
+Accuracy on training data: 81035 / 99999
+Cost on evaluation data: 3.051830692599042
+Accuracy on evaluation data: 10056 / 12800
+Epoch 12 training complete
+Cost on training data: 1.282694598173952
+Accuracy on training data: 82469 / 99999
+Cost on evaluation data: 3.005104623199637
+Accuracy on evaluation data: 10174 / 12800
+Epoch 13 training complete
+Cost on training data: 1.3239254865848697
+Accuracy on training data: 81115 / 99999
+Cost on evaluation data: 3.0519531064152305
+Accuracy on evaluation data: 10018 / 12800
+Epoch 14 training complete
+Cost on training data: 1.2995522447445227
+Accuracy on training data: 81782 / 99999
+Cost on evaluation data: 3.02946003101481
+Accuracy on evaluation data: 10183 / 12800
+Epoch 15 training complete
+Cost on training data: 1.2898857977504674
+Accuracy on training data: 82266 / 99999
+Cost on evaluation data: 3.021353831564638
+Accuracy on evaluation data: 10181 / 12800
+Epoch 16 training complete
+Cost on training data: 1.2795556945431152
+Accuracy on training data: 82620 / 99999
+Cost on evaluation data: 3.0286058823136606
+Accuracy on evaluation data: 10220 / 12800
+Epoch 17 training complete
+Cost on training data: 1.2799338561892846
+Accuracy on training data: 82615 / 99999
+Cost on evaluation data: 3.011450944172155
+Accuracy on evaluation data: 10215 / 12800
+Epoch 18 training complete
+Cost on training data: 1.3040413326477343
+Accuracy on training data: 82051 / 99999
+Cost on evaluation data: 3.0379813124111217
+Accuracy on evaluation data: 10167 / 12800
+Epoch 19 training complete
+Cost on training data: 1.2515573333512968
+Accuracy on training data: 83123 / 99999
+Cost on evaluation data: 3.003591084570675
+Accuracy on evaluation data: 10258 / 12800
+Epoch 20 training complete
+Cost on training data: 1.276306797497522
+Accuracy on training data: 82724 / 99999
+Cost on evaluation data: 3.0216861528836683
+Accuracy on evaluation data: 10200 / 12800
+Epoch 21 training complete
+Cost on training data: 1.2987956682599202
+Accuracy on training data: 81863 / 99999
+Cost on evaluation data: 3.039651887948568
+Accuracy on evaluation data: 10110 / 12800
+Epoch 22 training complete
+Cost on training data: 1.2737112471687593
+Accuracy on training data: 82767 / 99999
+Cost on evaluation data: 3.0298925040752342
+Accuracy on evaluation data: 10211 / 12800
+Epoch 23 training complete
+Cost on training data: 1.2889936347398463
+Accuracy on training data: 82194 / 99999
+Cost on evaluation data: 3.034125432912561
+Accuracy on evaluation data: 10181 / 12800
+Epoch 24 training complete
+Cost on training data: 1.2970372043495426
+Accuracy on training data: 82209 / 99999
+Cost on evaluation data: 3.054780973869239
+Accuracy on evaluation data: 10184 / 12800
+Epoch 25 training complete
+Cost on training data: 1.307775208437309
+Accuracy on training data: 81693 / 99999
+Cost on evaluation data: 3.065763159452175
+Accuracy on evaluation data: 10167 / 12800
+Epoch 26 training complete
+Cost on training data: 1.2712279350643039
+Accuracy on training data: 82654 / 99999
+Cost on evaluation data: 3.0191992962985883
+Accuracy on evaluation data: 10233 / 12800
+Epoch 27 training complete
+Cost on training data: 1.2776929726080477
+Accuracy on training data: 82403 / 99999
+Cost on evaluation data: 3.021694762687325
+Accuracy on evaluation data: 10231 / 12800
+Epoch 28 training complete
+Cost on training data: 1.2767395957816272
+Accuracy on training data: 82899 / 99999
+Cost on evaluation data: 3.0430927972433377
+Accuracy on evaluation data: 10207 / 12800
+Epoch 29 training complete
+Cost on training data: 1.2636596020523125
+Accuracy on training data: 82744 / 99999
+Cost on evaluation data: 3.0274555506378107
+Accuracy on evaluation data: 10212 / 12800
